@@ -1,0 +1,10 @@
+assets/
+build/
+banner.bnr
+icon.icn
+*.3dsx
+*.cia
+*.db
+*.nro
+*.nacp
+*.smdh
